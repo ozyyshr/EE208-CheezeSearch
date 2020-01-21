@@ -1,0 +1,10 @@
+Java从入门到精通 (编程宝典)
+https://amazon.cn/dp/B008QM2DGS
+https://images-cn.ssl-images-amazon.com/images/I/71skQiy0YYL._AC_UL320_ML3_.jpg
+	
+人民邮电出版社
+78.0
+《Java从入门到精通》主要内容涵盖Java应用程序的创建及语言特点，Java开发工具Eclipse的使用，类和对象，Java程序异常处理，Java多线程，Java网络程序设计和Java数据库编程等，并通过五子棋和人事管理系统的设计两大项目讲解Java实用操作。《Java从入门到精通》适合任何想学习Java的人员。
+魔乐科技(MLDN)软件实训中心(作者)	龙马创新教育研究室(合著者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

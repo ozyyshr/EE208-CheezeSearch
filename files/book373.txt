@@ -1,0 +1,10 @@
+疯狂软件教育标准教材·轻量级Java EE企业应用实战(第4版):Struts 2+Spring 4+Hibernate整合开发(附光盘)
+https://amazon.cn/dp/B07M9BR3YF
+https://images-cn.ssl-images-amazon.com/images/I/81AEH9MrB4L._AC_UL320_ML3_.jpg
+28.26
+电子工业出版社
+None
+《轻量级Java EE企业应用实战（第4版）：Struts 2+Spring 4+Hibernate整合开发(含CD光盘1张)》内容简介《轻量级Java EE企业应用实战（第4版）：Struts 2+Spring 4+Hibernate整合开发(含CD光盘1张)》是《轻量级Java EE企业应用实战》的第4版，第4版保持了前几版内容全面、深入的特点，主要完成全部知识的升级。《轻量级Java EE企业应用实战（第4版）：Struts 2+Spring 4+Hibernate整合开发(含CD光盘1张)》介绍了Java EE领域的三个开源框架：Struts 2、Spring和Hibernate。其中Struts 2升级到2.3.16.3，Spring升级到4.0.4，Hibernate升级到4.3.5。本书还全面介绍了Servlet 3.1的新特性，以及Tomcat 8.0的配置和用法，本书的示例也应该在Tomcat 8.0上运行。《轻量级Java EE企业应用实战（第4版）：Struts 2+Spring 4+Hibernate整合开发(含CD光盘1张)》重点介绍如何整合Struts 2.3+Spring 4.0+Hibernate 4.3进行Java EE开发，主要包括三部分。一部分介绍了Java EE开发的基础知识，以及如何搭建开发环境。第二部分详细讲解了Struts 2.3、Spring 4.0和Hibernate 4.3三个框架的用法，介绍三个框架时，以Eclipse IDE的使用来上手，一步步带领读者深入三个框架的核心。这部分内容是笔者讲授“疯狂Java实训”的培训讲义，因此是本书的重点部分。这部分内容既包含了笔者多年开发经历的领悟，也融入了丰富的授课经验。第三部分示范开发了一个包含7个表，表之间具有复杂的关联映射、继承映射等关系，且业务也相对复杂的工作流案例，希望让读者理论联系实际，将三个框架真正运用到实际开发中去。该案例采用目前最流行、最规范的Java EE架构，整个应用分为领域对象层、DAO层、业务逻辑层、MVC层和视图层，各层之间分层清晰，层与层之间以松耦合的方法组织在一起。该案例既提供了IDE无关的、基于Ant管理的项目源码，也提供了基于Eclipse IDE的项目源码，满足读者的需求。
+李刚(作者)	
+	
+程序语言与软件开发	图形图像/动画/多媒体与网页开发	计算机与互联网教材	电子工业出版社	人邮图书	博文视点	

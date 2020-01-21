@@ -1,0 +1,10 @@
+JavaScript高级程序设计(第3版) (图灵程序设计丛书)
+https://amazon.cn/dp/B00CBBJS5Y
+https://images-cn.ssl-images-amazon.com/images/I/51yO0DhaAOL._AC_UL320_ML3_.jpg
+49.99
+人民邮电出版社
+92.0
+内容简介《JavaScript高级程序设计(第3版)》是JavaScript超级畅销书的最新版。ECMAScript 5和HTML5在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript增添了很多适应未来发展的新特性。《JavaScript高级程序设计(第3版)》这一版除增加5章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax与Comet服务器端通信，HTML5表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的开发实践。《JavaScript高级程序设计(第3版)》附录展望了未来的API和ECMAScript Harmony规范。编辑推荐《JavaScript高级程序设计(第3版)》：JavaScript是基于Java的一种非常松散的面向对象语言，也是Web开发中极受欢迎的一门语言。JavaScript，尽管它的语法和编程风格与Java都很相似，但它却不是Java的“轻量级”版本。JavaScript是一种全新的动态语言，它植根于全球数亿网民都在使用的Web浏览器之中，致力于增强网站和Web应用程序的交互性。在《JavaScript高级程序设计(第3版)》中，将对JavaScript追根溯源，从它在最早的Netscape浏览器中诞生谈起，一直谈到今天的它对DOM和AjaX的强大支持。读者将通过《JavaScript高级程序设计(第3版)》掌握如何运用和扩展这门语言，从而更好地满足自己的需求，以及如何实现客户端与服务器的无缝通信，而又不必求助于Java或隐藏的网页框架（frame元素）。一言以蔽之，《JavaScript高级程序设计(第3版)》将教会你在面对各种常见的Web开发问题时，如何拿出自己的JavaScript解决方案。名人推荐“如果你像我一样，想学习或者熟练掌握今天最热门的Web开发技术，《JavaScript高级程序设计》是一个绝佳的起点，适合在所有Ajax图书之前阅读。” 　　——J.Ambrose Little Microsoft MVP “《JavaScript高级程序设计》作者显然非常了解读者的需要，落笔切中要害，行文信息密集.单单对客户端通信、Web服务、正则表达式、DOM、XML处理等现代JavaScrpt技术的详细讲解，就已经物超所值。” 　　——JavaScriptkit.com 作者简介作者：（美国）泽卡斯（Zakas. Nicholas C.） 译者：李松峰 曹力泽卡斯（Zakas. Nicholas C.），雅虎首页的主要开发者，雅虎用户界面库（YUI）代码贡献者，擅长利用JavaScript、HTML、CSS、XML、XSLT设计和实现WEB界面的软件工程师。
+泽卡斯(Zakas. Nicholas C.)(作者)	李松峰(译者)	曹力(译者)	
+权威指南	高级程序设计	质量也不错	浏览器兼容	影响阅读	前端程序员	适合初学者	代码图片	一次购物	第二天中午	很多细节	程序员必备	值得购买	讲解透彻	阅读这本书	非常值得	适合新手	应该不错	知识点讲解	讲得非常	
+Kindle Unlimited包月电子书适用	程序语言与软件开发	计算机与互联网教材	教材教辅与参考书	简体中文	

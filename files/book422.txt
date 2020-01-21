@@ -1,0 +1,10 @@
+Linux C编程从入门到精通(附DVD光盘1张)
+https://amazon.cn/dp/B0158F8IU0
+https://images-cn.ssl-images-amazon.com/images/I/A1O9px1cJoL._AC_UL320_ML3_.jpg
+	
+电子工业出版社
+None
+本书以Ubuntu 11.04为平台，系统地介绍了Linux下用C语言进行程序设计的方法，并通过列举大量的程序实例，使读者快速掌握在Linux下进行C语言程序开发的方法和技巧，并具备开发大型应用程序的能力。本书内容丰富，主要包括Linux基础知识介绍，Linux下的C语言编译器、调试器、程序维护工具及集成开发环境的使用方法，Linux下通过C语言进行文件操作和目录操作的方法，标准I/O库函数，进程概念、进程操作及进程间通信的方法，线程操作，用C语言进行网络编程、数据库编程及GUI编程的方法等。
+刘学勇(作者)	
+	
+Kindle Unlimited包月电子书适用	程序语言与软件开发	教材教辅与参考书	计算机与互联网教材	简体中文	

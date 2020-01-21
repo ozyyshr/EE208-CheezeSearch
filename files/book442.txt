@@ -1,0 +1,10 @@
+HTML、CSS、JavaScript 网页制作从入门到精通（异步图书）
+https://amazon.cn/dp/B00CBBMLVW
+https://images-cn.ssl-images-amazon.com/images/I/51b0oFbiJcL._AC_UL320_ML3_.jpg
+	
+人民邮电出版社
+78.0
+《HTMLCSSJavaScript网页制作从入门到精通》共分为18章和4个附录，重点介绍使用HTML进行网页制作的方方面面，同时讲解了目前流行的Web标准与CSS网页布局实例，以及基于JavaScript语言的网页特效制作。为了便于读者学习，附录中汇集了经过作者精心整理的网页制作技巧60多例。
+刘西杰(作者)	
+网页制作	适合无基础	入门	初学者	代码	例子	不多	拼凑	至少	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

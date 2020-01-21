@@ -1,0 +1,11 @@
+﻿UNIX网络编程 卷1 套接字联网API（第3版） UNIX和网络专家W. Richard Stevens的传世之作，世界知名网络专家Bill Fenner和Andrew M. Rudoff执笔新版
+http://product.dangdang.com/23734637.html
+http://img3m7.ddimg.cn/80/25/23734637-1_b_1.jpg
+101.90
+129.00
+人民邮电出版社
+99.9
+这是一部传世之作！**网络编程专家Bill Fenner和Andrew M. Rudoff应邀执笔，对W. Richard Stevens的经典作品进行修订。书中吸纳了近几年网络技术的发展，增添了IPv6、SCTP协议和密钥管理套接字等内容，深入讨论了**的关键标准、实现和技术。 书中的所有示例都是在UNIX系统上测试通过的真实的、可运行的代码，继承了Stevens一直强调的理念： 学习网络编程的*好方法就是下载这些程序，对其进行修改和改进。只有这样实际编写代码才能深入理解有关概念和方法。 读者可以从本书网站下载这些示例的源代码。 本书为UNIX网络编程提供全面的指导，是网络研究和开发人员公认的权威参考书，无论网络编程的初学者还是网络专家都会大受裨益。
+Richard	Stevens	Bill	Fenner	Andrew	Rudoff	匿名	
+专业性强	实用性强	对工作帮助大	紧跟技术发展	
+计算机/网络	网络与数据通信	通信	

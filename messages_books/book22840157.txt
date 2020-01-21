@@ -1,0 +1,11 @@
+﻿HTTP权威指南(国内首本HTTP及其相关核心Web技术权威著作) HTTP及相关核心Web技术方面的经典著作 高效Web开发 Web程序员人手一册的参考指南
+http://product.dangdang.com/22840157.html
+http://img3m7.ddimg.cn/65/20/22840157-1_b_2.jpg
+86.10
+109.00
+人民邮电出版社
+99.5
+HTTP及相关核心Web技术方面的权威著作 权威专家详解HTTP协议、深入说明Web工作原理 语言简洁精确，细节图解翔实 高效Web开发、Web程序员必备权威指南 HTTP是Web的基础，这里所说的Web，不仅只是通常意义上的Browser/Server端的开发，而是Web Service。 HTTP初看上去似乎是非常简单的协议，是的，HTTP 0.9确实是非常简单的，简单到只有一个GET方法，更不用说什么持久连接了。HTTP协议还有一个显著特点，那就是其协议是明文的基于文本的。这使得通过工具与HTTP进行交互变得非常简单，*原始的telnet也可以发送HTTP请求(参考本书15页)。 而大多数人对HTTP的了解也就是这种程度了(没有读此书之前的我也是这样)。此书的意义在于，它让你知道，HTTP不仅只有一个简单的GET，HTTP可以做为一种通用的分布式编程的协议。现如今Web上大行
+David	Gourley	Brian	Totty	Marjorie	Sayer	Sailu	Reddy	Aushu	Aggarwal	
+专业性强	实用性强	对工作帮助大	紧跟技术发展	
+计算机/网络	网络与数据通信	网络协议	

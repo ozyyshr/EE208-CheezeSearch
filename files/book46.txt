@@ -1,0 +1,10 @@
+C专家编程（异步图书） (C和C++经典著作)
+https://amazon.cn/dp/B075R41YLL
+https://images-cn.ssl-images-amazon.com/images/I/51y0ET8FE7L._AC_UL320_ML3_.jpg
+	
+人民邮电出版社
+88.00000000000001
+《C和C++经典著作 C专家编程Expert C Programming Deep C Secrets》展示了C程序员所使用的编码技巧，并专门开辟了一章对C++的基础知识进行了介绍。书中C的历史、语言特性、声明、数组、指针、链接、运行时、内存以及如何进一步学习C++等问题进行了细致的讲解和深入的分析。全书撷取几十个实例进行讲解，对C程序员具有非常高的实用价值。《C和C++经典著作?C专家编程Expert C Programming Deep C Secrets》可以帮助有一定经验的C程序员成为C编程方面的专家，对于具备相当的C语言基础的程序员，《C和C++经典著作 C专家编程Expert C Programming Deep C Secrets》可以帮助他们站在C的高度了解和学习C++。
+Perter Van Der Linden(作者)	徐波(译者)	
+
+程序语言与软件开发	软件工程及软件方法学	电脑/网络期刊	旅游与地图	图形图像/动画/多媒体与网页开发	计算机与互联网安全与加密	

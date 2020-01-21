@@ -1,0 +1,10 @@
+Java 并发编程从入门到精通
+https://amazon.cn/dp/B01MT6BN2U
+https://images-cn.ssl-images-amazon.com/images/I/41onWoK4IDL._AC_UL320_ML3_.jpg
+21.06
+清华大学出版社
+None
+《Java并发编程从入门到精通》作者结合自己10多年Java并发编程经验，详细介绍了Java并发编程的基础概念、工作原理、编程技巧和注意事项，对Java高性能高并发编程有极大的参考价值。《Java并发编程从入门到精通》内容包括并发编程概念，线程，线程安全，线程集合类，线程阀，线程池，Fork／Join，线程、线程池在互联网项目开发的应用，线程监控及线程分析，Android中线程应用。
+张振华(作者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

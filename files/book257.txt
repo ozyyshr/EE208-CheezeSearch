@@ -1,0 +1,10 @@
+编写高质量代码：改善C程序代码的125个建议 (Effective系列丛书)
+https://amazon.cn/dp/B01AUGG3NQ
+https://images-cn.ssl-images-amazon.com/images/I/61lhRZGZitL._AC_UL320_ML3_.jpg
+30.00
+机械工业出版社
+None
+本书适合那些有一定C语言基础并希望快速提升程序设计能力的初级与中级程序员。因此，本书并不会阐述C语言中的一些基础概念，而是将C语言编程过程中可能遇到的疑问或者障碍进行一一列举与剖析，并给出了经验性解决方案与建议。
+马伟(作者)	
+
+Kindle Unlimited包月电子书适用	程序语言与软件开发	计算机与互联网教材	教材教辅与参考书	简体中文	

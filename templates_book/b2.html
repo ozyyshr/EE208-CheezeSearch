@@ -1,0 +1,25 @@
+$def with (book_list,booklist)
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+</style>
+</head>
+<body>
+$if book_list:
+    <div class="o">
+    $for i in book_list:
+        <img src="$i[2]"><br>
+    </div>
+$else:
+    <div class="y"></div>
+$if booklist:
+    <div class="o">
+    $for i in booklist:
+        <img src="$i[2]"><br>
+    </div>
+$else:
+    <div class="y"></div>
+</body>
+</html>

@@ -1,0 +1,398 @@
+$def with (key, result_list, reprice, rerating, page, end, total, reco)
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="static/css1/animate.css">
+<link rel="stylesheet" href="static/css1/et-lineicons.css">
+<link rel="stylesheet" href="static/css1/themify-icons.css">
+<link rel="stylesheet" href="static/css1/bootstrap.css">
+<link rel="stylesheet" href="static/css1/flexslider.css">
+<link rel="stylesheet" href="static/css1/style.css">
+
+<link rel="stylesheet" href="static/css2/bootstrap/css/bootstrap.min.css">
+<link href="static/css2/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="static/js2/datetimepicker/bootstrap-datetimepicker.min.css" rel="stylesheet">
+<link href="static/js2/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="static/css2/themecss/lib.css" rel="stylesheet">
+<link href="static/js2/jquery-ui/jquery-ui.min.css" rel="stylesheet">
+<link href="static/js2/minicolors/miniColors.css" rel="stylesheet">
+
+<!-- Theme CSS
+============================================ -->
+<link href="static/css2/themecss/so_searchpro.css" rel="stylesheet">
+<link href="static/css2/themecss/so_megamenu.css" rel="stylesheet">
+<link href="static/css2/themecss/so-categories.css" rel="stylesheet">
+<link href="static/css2/themecss/so-listing-tabs.css" rel="stylesheet">
+<link href="static/css2/themecss/so-category-slider.css" rel="stylesheet">
+<link href="static/css2/themecss/so-newletter-popup.css" rel="stylesheet">
+
+<link href="static/css2/footer/footer1.css" rel="stylesheet">
+<link href="static/css2/header/header1.css" rel="stylesheet">
+<link id="color_scheme" href="static/css2/theme.css" rel="stylesheet">
+<link href="static/css2/responsive.css" rel="stylesheet">
+<!-- FOR IE9 below -->
+<!--[if lt IE 9]>
+	<script src="static/js1/respond.min.js"></script>
+
+
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<div id="addo-page"> <a href="#" class="js-addo-nav-toggle addo-nav-toggle"><i></i></a>
+	<!-- Sidebar Section -->
+	<aside id="addo-aside">
+		<!-- Logo -->
+		<div id="addo-logo"> <a href="#">Cheese Search<span>芝士就是力量</span></a> </div>
+		<!-- Menu -->
+		<nav id="addo-main-menu">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="#about">Book Search</a></li>
+				<li><a href="#news">Price sort</a></li>
+				<li><a href="#portfolio">Rating Sort</a></li>
+				<li><a href="#services">Recommendation</a></li>
+				<li><a href="#references">About us</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+		<!-- Sidebar Footer -->
+		<div class="addo-footer">
+			<ul>
+				<li><a href="#"><i class="ti-facebook font-14px white-icon"></i></a></li>
+				<li><a href="#"><i class="ti-twitter-alt font-14px white-icon"></i></a></li>
+				<li><a href="#"><i class="ti-instagram font-14px white-icon"></i></a></li>
+				<li><a href="#"><i class="ti-linkedin font-14px white-icon"></i></a></li>
+			</ul>
+			<p><small>© 2020 Book Search by <a href="#">电工导&nbspC&nbsp小分队</a></small></p>
+		</div>
+	</aside>
+	<!-- Main Section -->
+	<div id="addo-main">
+		<!-- About Section -->
+		<div id="about" class="section">
+			<div class="addo-about">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Information</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">&nbsp&nbsp$key</h2> </div>
+					</div>
+					$for sub in result_list:
+						<div class="row">
+							<div class="project animate-box" data-animate-effect="fadeInLeft" style="top:50px;left:80px;width:450px" >
+								<a href="$sub[1]" class="blog-img"><img src="$sub[2]"  class="img-fluid" alt="" style="height:320px;width:auto"></a>
+							</div>
+							<div class="col-md-7 animate-box" data-animate-effect="fadeInLeft"> <span class="heading-meta">ABOUT THIS BOOK</span>
+								<h2 class="cd-headline clip">
+									<a href="$sub[1]"><span>$sub[0]</span></a>
+							</h2>
+
+								<p>$sub[6]</p>
+								<div class="addo-about-contact-wrap">
+									<div class="row">
+										<div class="col-md-6">
+											<p><b>Authors:&nbsp&nbsp</b>$sub[7]</p>
+											<p style="color: #ff5e00; font-size: 15px"><b style="font-size: 15px">Price:&nbsp&nbsp</b>￥$sub[3]</p>
+											<p><b>Category:&nbsp&nbsp</b>$sub[9]</p>
+											<p><b>rating:&nbsp&nbsp</b>$sub[5]
+											&nbsp&nbsp&nbsp
+											$for i in range(0, int(sub[10])):
+												<span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i></span>
+											$for i in range(int(sub[10]), 5):
+												<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+											</p>
+										</div>
+										<div class="col-md-6">
+											$if sub[8]:
+												<p><b>Comments:&nbsp&nbsp</b><br>
+												$for i in sub[8]:
+													&nbsp&nbsp$i<br>
+												</p>
+											<p><b>Editor:&nbsp&nbsp</b><a href="$sub[4][1]">$sub[4][0]</a></p>
+
+										</div>
+
+										</div>
+								</div>
+								<ul class="toolbar">
+								  <li><button class="btn">立即购买</button></li>
+								  <li><button class="btn">加入购物车</button></li>
+								</ul>
+							</div>
+						</div>
+						<br><br>
+				</div>
+			</div>
+		</div>
+		<!-- News Section -->
+		<div id="news" class="section">
+			<div class="addo-blog">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Price Sort</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">$key</h2> </div>
+					</div>
+
+					<div class="row">
+						$for sub in reprice:
+						<div class="col-md-4 col-sm-4">
+							<div class="blog-entry animate-box" data-animate-effect="fadeInLeft">
+								<a href="$sub[1]" class="blog-img"><img src="$sub[2]" class="img-fluid" alt="" style="height:350px;width:auto"></a>
+								<div class="desc"> <span>top <b><a href="#">$sub[11]</a></b></span>
+									<h3><a href="$sub[1]">$sub[0]</a></h3>
+									<div class="addo-about-contact-wrap">
+										<div class="row">
+											<div class="col-md-6">
+												<p><b>Authors:&nbsp&nbsp</b>$sub[7]</p>
+												<p style="color: #ff5e00; font-size: 15px"><b style="font-size: 15px">Price:&nbsp&nbsp</b>￥$sub[3]</p>
+												<p><b>Category:&nbsp&nbsp</b>$sub[9]</p>
+											</div>
+											<div class="col-md-6">
+												$if sub[8]:
+													<p><b>Comments:&nbsp&nbsp</b><br>
+													$for i in sub[8]:
+														&nbsp&nbsp$i<br>
+													</p>
+												<p><b>rating:&nbsp&nbsp</b>$sub[5]</p>
+											</div>
+
+											&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											$for i in range(0, int(sub[10])):
+												<span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i></span>
+											$for i in range(int(sub[10]), 5):
+												<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Portfolio Section -->
+		<div id="portfolio" class="section">
+			<div class="addo-blog">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Rating Sort</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">$key</h2> </div>
+					</div>
+
+					<div class="row">
+						$for sub in rerating:
+						<div class="col-md-4 col-sm-4">
+							<div class="blog-entry animate-box" data-animate-effect="fadeInLeft">
+								<a href="$sub[1]" class="blog-img"><img src="$sub[2]" class="img-fluid" alt="" style="height:350px;width:auto"></a>
+								<div class="desc"> <span>top <b><a href="#">$sub[11]</a></b></span>
+									<h3><a href="$sub[1]">$sub[0]</a></h3>
+									<div class="addo-about-contact-wrap">
+										<div class="row">
+											<div class="col-md-6">
+												<p><b>Authors:&nbsp&nbsp</b>$sub[7]</p>
+												<p style="color: #ff5e00; font-size: 15px"><b style="font-size: 15px">Price:&nbsp&nbsp</b>￥$sub[3]</p>
+												<p><b>Category:&nbsp&nbsp</b>$sub[9]</p>
+											</div>
+											<div class="col-md-6">
+												$if sub[8]:
+													<p><b>Comments:&nbsp&nbsp</b><br>
+													$for i in sub[8]:
+														&nbsp&nbsp$i<br>
+													</p>
+												<p><b>rating:&nbsp&nbsp</b>$sub[5]</p>
+											</div>
+
+
+											&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											$for i in range(0, int(sub[10])):
+												<span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i></span>
+											$for i in range(int(sub[10]), 5):
+												<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Services Section -->
+		<div id="services" class="section">
+			<div class="addo-services">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Other books related</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Recommendation</h2> </div>
+					</div>
+					<div class="row">
+						$for sub in reco:
+							<div class="col-md-4">
+								<div class="addo-feature animate-box" data-animate-effect="fadeInLeft">
+									<div class="addo-icon"> <span class="et-laptop font-35px"></span> </div>
+									<div class="addo-text">
+										<a href="$sub[1]" class="blog-img"><img src="$sub[2]" class="img-fluid" alt="" style="height:350px;width:auto"></a>
+										<br>
+										<h3><a href="$sub[1]">$sub[0]</a></h3>
+										<div class="addo-about-contact-wrap">
+										<div class="row">
+											<div class="col-md-6" style="width:300px ">
+												<p><b>Authors:&nbsp&nbsp</b>$sub[7]</p>
+												<p style="color: #ff5e00; font-size: 15px"><b style="font-size: 15px">Price:&nbsp&nbsp</b>￥$sub[3]</p>
+												<p><b>Comments:&nbsp&nbsp</b>$sub[9]</p>
+											</div>
+											<div class="col-md-6" style="width:300px ">
+												<p><b>Category:&nbsp&nbsp</b>$sub[9]</p>
+												<p><b>Rating:&nbsp&nbsp</b>$sub[5]</p>
+											</div>
+											&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											$for i in range(0, int(sub[10])):
+												<span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i></span>
+											$for i in range(int(sub[10]), 5):
+												<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+										</div>
+									</div>
+									</div>
+								</div>
+							</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- References Section -->
+		<div id="references" class="section">
+			<div class="addo-references">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Our Team</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Members</h2> </div>
+					</div>
+					<div class="row">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft" style="height:100px width:auto">
+							<div class="team"> <img src="static/images1/lyc.jpg" class="img-fluid" alt="" style="height:100px width:auto">
+								<div class="desc">
+									<div class="con">
+										<h3>栗雨辰</h3> <span>电工导C小分队 | 爸爸</span> </div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft" style="height:100px width:auto">
+							<div class="team"> <img src="static/images1/oysr.jpg" class="img-fluid" alt="" style="height:100px width:auto">
+								<div class="desc">
+									<div class="con">
+										<h3>欧阳思如</h3> <span>电工导C小分队 | 宝宝</span> </div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft" style="height:100px width:auto">
+							<div class="team"> <img src="static/images1/skl.jpg" class="img-fluid" alt="" style="height:100px width:auto">
+								<div class="desc">
+									<div class="con">
+										<h3>孙开来</h3> <span>电工导C小分队 | 妈妈</span> </div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft" style="height:100px width:auto">
+							<div class="team"> <img src="static/images1/zyw.jpg" class="img-fluid" alt="" style="height:100px width:auto">
+								<div class="desc">
+									<div class="con">
+										<h3>张逸雯</h3> <span>电工导C小分队 | ??</span> </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- Contact Section -->
+		<div id="contact" class="section">
+			<div class="addo-contact">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12"> <span class="heading-meta">Location</span>
+							<h2 class="addo-heading animate-box" data-animate-effect="fadeInLeft">Contact Us</h2> </div>
+					</div>
+					<div class="row">
+						<!-- Contact Info -->
+						<div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInLeft">
+							<p><b>电工导C小分队 INC.</b>
+								<br>如果您觉得这个网页不错
+								<br>或者制作者很有趣
+								<br>请给高分让我们过个好年叭谢谢Thanks♪(･ω･)ﾉ</p>
+							<p>PHONE: 54749110</p>
+							<p>FAX: 54749110</p>
+							<p>EMAIL: 54749110@qq.com</p>
+							<p>ADDRESS: Student Dorm D27</p>
+						</div>
+						<!-- Contact Form -->
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<p><b>GET IN TOUCH</b></p>
+							<form method="post" class="row">
+								<div class="col-sm-6">
+									<div class="form-group">
+										<input type="text" class="form-control" placeholder="Name" required=""> </div>
+								</div>
+								<div class="col-sm-6">
+									<div class="form-group">
+										<input type="text" class="form-control" placeholder="Email"> </div>
+								</div>
+								<div class="col-sm-12">
+									<div class="form-group">
+										<textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+									</div>
+								</div>
+								<div class="col-sm-12">
+									<div class="form-group">
+										<button class="btn" type="submit">Send</button>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer -->
+		<div id="addo-footer2" class="section">
+			<div class="addo-narrow-content">
+				<div class="row">
+					<div class="col-md-4 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<p class="addo-lead">Copyright &copy; 2019.Company name All rights reserved.</p>
+					</div>
+					<div class="col-md-4 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<h2 class="text-center">Cheese Search<br>芝士就是力量<span>电工导C小分队</span></h2> </div>
+					<div class="col-md-4 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+						<ul class="social-network">
+							<li><a href="#"><i class="ti-facebook font-14px black-icon"></i></a></li>
+							<li><a href="#"><i class="ti-twitter-alt font-14px black-icon"></i></a></li>
+							<li><a href="#"><i class="ti-instagram font-14px black-icon"></i></a></li>
+							<li><a href="#"><i class="ti-linkedin font-14px black-icon"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Js -->
+<script src="static/js1/jquery.min.js"></script>
+<script src="static/js1/modernizr-2.6.2.min.js"></script>
+<script src="static/js1/jquery.easing.1.3.js"></script>
+<script src="static/js1/bootstrap.min.js"></script>
+<script src="static/js1/jquery.waypoints.min.js"></script>
+<script src="static/js1/jquery.flexslider-min.js"></script>
+<script src="static/js1/animated.headline.js"></script>
+<script src="static/js1/sticky-kit.min.js"></script>
+<script src="static/js1/main.js"></script>
+
+</body>
+</html>

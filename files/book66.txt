@@ -1,0 +1,10 @@
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 (English Edition)
+https://amazon.cn/dp/B00PGCMGDQ
+https://images-cn.ssl-images-amazon.com/images/I/91i+g38v9eL._AC_UL320_ML3_.jpg
+389.41
+无限</li>
+None
+Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14—i.e. using modern C++.Topics include:The pros and cons of braced initialization, noexcept specifications, perfect forwarding, and smart pointer make functionsThe relationships among std::move, std::forward, rvalue references, and universal referencesTechniques for writing clear, correct, effective lambda expressionsHow std::atomic differs from volatile, how each should be used, and how they relate to C++'s concurrency APIHow best practices in "old" C++ programming (i.e., C++98) require revision for software development in modern C++Effective Modern C++ follows the proven guideline-based, example-driven format of Scott Meyers' earlier books, but covers entirely new material."After I learned the C++ basics, I then learned how to use C++ in production code from Meyer's series of Effective C++ books. Effective Modern C++ is the most important how-to book for advice on key guidelines, styles, and idioms to use modern C++ effectively and well. Don't own it yet? Buy this one. Now".-- Herb Sutter, Chair of ISO C++ Standards Committee and C++ Software Architect at Microsoft
+Scott Meyers(作者)	
+
+程序语言与软件开发	软件工程及软件方法学	电脑/网络期刊	旅游与地图	图形图像/动画/多媒体与网页开发	计算机与互联网安全与加密	

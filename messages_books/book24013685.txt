@@ -1,0 +1,11 @@
+﻿Linux命令行与shell脚本编程大全 第3版 Linux命令行大全 轻松掌握Linux命令行和shell脚本编程细节 实现Linux系统任务自动化 Linux命令行大全
+http://product.dangdang.com/24013685.html
+http://img3m5.ddimg.cn/47/19/24013685-1_b_6.jpg
+86.10
+109.00
+人民邮电出版社
+99.7
+精通Linux命令行与shell脚本编程，尽在本书中本书是关于Linux命令行和shell命令的全面参考资料，涵盖详尽的动手教程和实际应用指南，并提供相关参考信息和背景资料，带你从Linux命令行基础入手，直到写出自己的shell。时隔四年后的这一版本，针对Linux的新特性和实践，进行了全面更新。使用简单的shell脚本工具实现任务自动化创建shell脚本，全面理解shell的用途管理文件系统与软件包使用nano、KDE及GNOME等编辑器学习结构化命令、文本处理及正则表达式创建与电子邮件、数据库及Web相关的实用脚本优化环境、微调脚本
+布鲁姆	Richard	Blum	布雷斯纳汉	Christine	
+实用性强	专业性强	对工作帮助大	紧跟技术发展	
+计算机/网络	操作系统/系统开发	LINUX	

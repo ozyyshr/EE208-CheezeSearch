@@ -1,0 +1,11 @@
+﻿基于Kubernetes的DevOps实践：容器加速软件交付
+http://product.dangdang.com/27909164.html
+http://img3m4.ddimg.cn/74/27/27909164-1_b_2.jpg
+85.30
+108.00
+电子工业出版社
+98.7
+本书带领你开启DevOps、容器和Kubernetes基本概念和实用技能的学习之旅。 第1章，DevOps简介。 第2章，DevOps和容器。 第3章，Kubernetes入门。 第4章，存储与资源管理。 第5章，网络与安全。 第6章，监控与日志。 第7章，持续交付。 第8章，集群管理。 第9章，AWS上的Kubernetes。 第10章，GCP上的Kubernetes。 第11章，未来探究。
+Hideto	Saito	希迪托・佐藤	
+紧跟技术发展	对工作帮助大	
+工业技术	一般工业技术	

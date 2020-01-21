@@ -1,0 +1,10 @@
+Java 语言快速入门（极客学院）
+https://amazon.cn/dp/B014KPACGW
+https://images-cn.ssl-images-amazon.com/images/I/71253ngs7ZL._AC_UL320_ML3_.jpg
+	
+浙江出版集团数字传媒有限公司
+50.0
+Java 是一种高级的编程语言，它最初是由 Sun 公司开发并于 1995 年公开发布的。Java 可以在不同的平台上运行，例如：Windows，Mac OS 和不同版本的 Unix。本指南将让你对 Java 有一个彻底的认识与了解。
+极客学院(作者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

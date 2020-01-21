@@ -1,0 +1,10 @@
+疯狂XML讲义(第2版)
+https://amazon.cn/dp/B00FF1Y2ZI
+https://images-cn.ssl-images-amazon.com/images/I/41tDc9kQvuL._AC_UL320_ML3_.jpg
+34.99
+电子工业出版社
+80.0
+本书主要以XML为核心，深入地介绍了XML的各种相关知识。本书作为疯狂Java体系图书之一，依然保持该体系图书系统、全面的特点：不仅详细介绍了XML文档的各种知识，还通过案例示范了实际开发中如何应用XML知识。本书主要分为五个部分。第一部分介绍了XML、DTD、XML Schema等基础知识，这些知识主要教读者如何定义有效的XML文档，这部分内容是深入学习后面知识的基础，也是每个使用XML的开发者都应该掌握的基础。第二部分介绍了CSS、XSLT和XPath等知识，通过使用CSS或XSLT，可直接将XML文档当成视图技术。第三部分介绍了DOM、SAX、JAXP、dom4j、JDOM、XQuery和XQJ等，其中的DOM、SAX、JAXP、dom4j和JDOM都以结构化的方式来创建、解析XML文档，从而可以将XML文档作为数据传输工具，而XQuery则是一种新规范，通过XQuery可以查询XML文档中的数据，就像使用SQL查询关系数据库的数据一样。第四部分介绍了Web ServicesService和CXF，其中CXF是Java领域的主流Web ServicesService框架，简单易用。第五部分则提供了两个综合性案例：基于XML的电子公告系统和电子拍卖系统，让读者将前面所学应用到实际项目中。，尤其是电子拍卖系统。它是一个包含5个表，表之间具有复杂关联映射的系统，该案例采用目前最流行、最规范的轻量级Java EE架构，将整个应用分为领域对象层、DAO层和业务逻辑层，然后用CXF将业务逻辑组件包装成Web ServicesService，从而可以将现有的Java EE项目与其他平台的、其他语言的异构项目进行整合，具有极好的指导价值和借鉴意义。本书大部分章节后都提供了相应的编程习题，供开发者巩固所学，将理论融入实际开发之用。关于这些编程习题的解题思路和参考答案可登录http://www.crazyit.org获取。本书是疯狂Java体系丛书之一，学习本书无须任何XML基础，但DOM、SAX、dom4j、JDOM解析部分包含了大量Java编程，因此建议先认真阅读疯狂Java体系的《疯狂Java讲义》一书。
+李刚(作者)	
+	
+程序语言与软件开发	图形图像/动画/多媒体与网页开发	计算机与互联网教材	电子工业出版社	人邮图书	博文视点	

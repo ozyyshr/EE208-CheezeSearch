@@ -1,0 +1,180 @@
+$def with()
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>homepage example</title>
+<style type="text/css">
+	body {
+		margin-left:200px;
+		margin-right:200px;
+		background:#333 ;
+	}
+	.container
+	{
+		text-align:center;
+		font-size: 5px;
+	}
+	.center_div
+	{
+		border-radius: 12px;
+		margin-top: 200px;
+		margin-left:auto;
+		margin-right:auto;
+		width:60%;
+		//background-color:#d0f0f6;
+		background-color:#FFB1B0;
+		padding:8px;
+		text-align:center;
+	}
+	h1
+	{
+		text-align:center;
+		color: white;
+		text-shadow: 5px 5px 5px #000000;
+		opacity: 0.8;
+		font-size: 35px;
+	}
+	.txt{
+		color: white;
+		text-shadow: 3px 3px 3px #000000;
+		opacity: 0.9;
+		font-size: 30px;
+	}
+
+
+
+	.button {
+  		display: inline-block;
+  		border-radius: 12px;
+  		background-color: rgba(70,130,180,0.5);
+  		border: none;
+  		color: 	#555555;
+  		text-align: center;
+  		font-size: 20px;
+  		padding: 15px 32px;
+  		width: 150px;
+  		transition: all 0.5s;
+  		cursor: pointer;
+  		margin: 5px;
+  		box-shadow: 0 12px 16px 0 rgba(0,0,0,0.4),0 17px 50px 0 rgba(0,0,0,0.19);
+	}
+
+	.button2:hover {
+    	box-shadow: 0 12px 16px 0 rgba(0,0,0,0),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+	.button span {
+  		cursor: pointer;
+  		display: inline-block;
+  		position: relative;
+  		transition: 0.5s;
+	}
+
+	.button span:after {
+  		content: '»';
+  		position: absolute;
+  		opacity: 0;
+  		top: 0;
+  		right: -20px;
+  		transition: 0.5s;
+	}
+
+	.button:hover span {
+  		padding-right: 25px;
+	}
+
+	.button:hover span:after {
+  		opacity: 1;
+  		right: 0;
+	}
+
+	/*.bar1 input {
+
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2),0 17px 50px 0 rgba(0,0,0,0.1);
+    }*/
+
+    input[type=text] {
+    	width: 400x;
+    	box-sizing: border-box;
+    	border: 2px solid #ccc;
+    	border-radius: 10px;
+    	font-size: 16px;
+    	background-color: white;
+    	padding: 4px 8px 5px 15px;
+    	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2),0 17px 50px 0 rgba(0,0,0,0.1);
+    	-webkit-transition: width 0.4s ease-in-out;
+    	transition: width 0.4s ease-in-out;
+    	outline:none;
+	}
+
+	input[type=text]:focus {
+    	width: 60%;
+	}
+
+	/* 导航 */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar2 {
+    overflow: hidden;
+    background-color: rgba(135,206,235,0.2);
+}
+
+/* 导航栏样式 */
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* 右侧链接*/
+.navbar a.right {
+    float: right;
+}
+
+/* 鼠标移动到链接的颜色 */
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+</style>
+</head>
+<body>
+	<div class="navbar">
+        <a href="/">News</a>
+        <a href="/m">Image</a>
+		<a href="#">Forums</a>
+        <a href="#">Library</a>
+    </div>
+	<div class="container">
+		<center>
+	<div class="center_div">
+		<br><br><br>
+	<br><h1>Home</h1><br>
+		<center>
+	<form action="/i" method="post">
+		<input  type="text" name="keyword" style="background:rgba(255, 255, 255, 0.4);" placeholder="Image">
+		<br><br><br><br><br><br>
+		<button class="button button2" style="vertical-align:middle"><span>
+		<input type="submit" value="Search" style="background:rgba(0, 0, 0, 0);border: none;font-size: 20px;color: white;font-weight: bold;text-shadow: 3px 3px 3px #696969;">
+		</span>
+		</button>
+		<div style="padding: 70px 70px 0px;">
+
+	</form>
+			</center>
+	</div>
+			</center>
+	</div>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,10 @@
+Visual C++   2013入门经典(第7版) (.NET开发经典名著)
+https://amazon.cn/dp/B073GSGLSB
+https://images-cn.ssl-images-amazon.com/images/I/51kqfKXvZeL._AC_UL320_ML3_.jpg
+53.90
+清华大学出版社
+None
+著名编程图书作家Ivor Horton引导学习Visual C++   2013这本最新的C  语言畅销书遵循Ivor Horton一贯的畅销风格。Horton非常详尽地介绍了标准C  语言和Visual C++  。整本书都根据Visual C++   2013进行了更新，展示了如何使用Visual C++  建立实用的应用程序。阅读本书不需要任何编程经验。作者使用大量循序渐进的编程示例，引导读者掌握C  开发的全部奥秘。
+[美]Ivor Horton(作者)	李周芳(译者)	江凌(译者)	
+
+程序语言与软件开发	软件工程及软件方法学	电脑/网络期刊	旅游与地图	图形图像/动画/多媒体与网页开发	计算机与互联网安全与加密	

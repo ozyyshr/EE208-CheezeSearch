@@ -1,0 +1,11 @@
+﻿Selenium3自动化测试实战――基于Python语言 全面介绍unittest和pytest两大单元测试框架，通过20个例子展示WebDriverAPI的使用场景，并用自动化项目串联知识点。
+http://product.dangdang.com/27895220.html
+http://img3m0.ddimg.cn/89/32/27895220-1_b_2.jpg
+52.40
+69.00
+电子工业出版社
+99.6
+《Selenium3自动化测试实战 基于Python语言》重要知识点总结如下： (1) Python3 编程语言基础精讲 (2) 通过20个例子展示WebDriver API 的使用场景 (3) unittest pytest 两大单元测试框架全面介绍 (4) 数据驱动模型在项目中的应用 (5) 通过自动化项目串联所有知识点 (6) Jenkins持续集成的安装与配置 (7) appium 移动测试工具的应用
+虫师	
+专业性强	紧跟技术发展	实用性强	对工作帮助大	
+计算机/网络	网络与数据通信	网络配置与管理	

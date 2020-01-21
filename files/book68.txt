@@ -1,0 +1,10 @@
+C++ 基础教程（极客学院）
+https://amazon.cn/dp/B014KPB7JI
+https://images-cn.ssl-images-amazon.com/images/I/71JnpnxLXcL._AC_UL320_ML3_.jpg
+	
+浙江出版集团数字传媒有限公司
+48.0
+C++ 是由 Bjarne Stroustrup 于 1979 年开始在贝尔实验室开发的一个中级编程语言。 C++ 可运行在不同的平台，如 Windows，Mac OS 和各种版本的 UNIX。本书将通过简单实用的方法来带你学习 C++ 编程语言。
+极客学院(作者)	
+
+程序语言与软件开发	软件工程及软件方法学	电脑/网络期刊	旅游与地图	图形图像/动画/多媒体与网页开发	计算机与互联网安全与加密	

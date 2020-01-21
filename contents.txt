@@ -1,0 +1,51 @@
+卷 Windows 的文件夹 PATH 列表
+卷序列号为 5A11-AA34
+C:.
+├─.idea
+│  └─inspectionProfiles
+├─book
+├─files
+├─index
+├─messages_books
+├─pic_2
+├─pic_search
+│  └─index
+├─static
+│  ├─css
+│  ├─css1
+│  ├─css2
+│  │  ├─bootstrap
+│  │  │  └─css
+│  │  ├─font-awesome
+│  │  │  ├─css
+│  │  │  └─fonts
+│  │  ├─footer
+│  │  ├─header
+│  │  └─themecss
+│  ├─fonts
+│  ├─fonts1
+│  ├─images
+│  ├─images1
+│  ├─js
+│  ├─js1
+│  └─js2
+│      ├─countdown
+│      ├─datetimepicker
+│      ├─dcjqaccordion
+│      ├─jquery-ui
+│      ├─minicolors
+│      ├─modernizr
+│      ├─owl-carousel
+│      ├─slick-slider
+│      ├─themejs
+│      └─unveil
+├─templates
+├─templates1
+│  └─.idea
+│      └─inspectionProfiles
+├─templates2
+│  ├─css1
+│  ├─fonts1
+│  ├─images1
+│  └─js1
+└─templates_book

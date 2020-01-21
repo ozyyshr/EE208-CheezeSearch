@@ -1,0 +1,10 @@
+Linux C编程从入门到精通(“十二五”国家重点图书出版规划项目)（异步图书）
+https://amazon.cn/dp/B00R5CRJ6O
+https://images-cn.ssl-images-amazon.com/images/I/51YMaFNOKnL._AC_UL320_ML3_.jpg
+	
+人民邮电出版社
+None
+《Linux C编程从入门到精通》是一本由浅入深、循序渐进地讲解Linux系统使用和开发的教程，是基于Ubuntu版本来介绍Linux系统的基础知识和Linux C语言开发过程的。《Linux C编程从入门到精通》包括Linux基础，在Linux中编写C语言代码，Linux编程进阶，Linux的文件编程，Linux的流编程，Linux的进程，Linux的线程，Linux的信号和进程间通信，Linux的管道、命名管道和进程间通信，Linux的System V IPC进程通信等10章。《Linux C编程从入门到精通》最大的特点在于语言浅显易懂，并配合使用了一定的实际开发实例，使得读者可以很容易地掌握Linux C语言的基础知识和实际开发经验。　　《Linux C编程从入门到精通》可以作为Linux C语言开发的入门教程，也可以作为Linux C语言开发的参考手册，可供有初步Linux C语言基础知识的工程师、高等院校计算机专业的学生和Linux爱好者使用。
+宋磊(作者)	程钢(作者)	
+	
+Kindle Unlimited包月电子书适用	程序语言与软件开发	教材教辅与参考书	计算机与互联网教材	简体中文	

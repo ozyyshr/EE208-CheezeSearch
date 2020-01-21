@@ -1,0 +1,10 @@
+Java Web从入门到精通（第3版）
+https://amazon.cn/dp/B07VHR47CX
+https://images-cn.ssl-images-amazon.com/images/I/71wIl4kZIrL._AC_UL320_ML3_.jpg
+39.99
+<li><b>语种：</b>
+20.0
+《Java Web从入门到精通（第3版）》从初学者角度出发，通过通俗易懂的语言、丰富多彩的实例，详细介绍了进行Java Web应用程序开发需要掌握的各方面技术。全书共分21章，包括Java Web应用开发概述、HTML与CSS网页开发基础、JavaScript脚本语言、搭建开发环境、JSP基本语法、JSP内置对象、JavaBean技术、Servlet技术、过滤器和监听器、Java Web的数据库操作、EL（表达式语言）、JSTL标签、Ajax技术、Struts2基础、Struts2高级技术、Hibernate技术、Hibernate高级应用、Spring核心之IoC、Spring核心之AOP、SSM框架整合开发、九宫格记忆网等内容。本书所有知识都结合具体实例进行介绍，涉及的程序代码给出了详细的注释，可以使读者轻松领会Java Web应用程序开发的精髓，快速提高开发技能。
+明日科技(作者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

@@ -1,0 +1,10 @@
+JavaScript从入门到精通
+https://amazon.cn/dp/B00BTCLRWS
+https://images-cn.ssl-images-amazon.com/images/I/61gf3bLSOCL._AC_UL320_ML3_.jpg
+	
+机械工业出版社
+50.0
+光盘内容下下载地址：http://pan.baidu.com/s/1eQp9TKm    本书一共分为四篇，涵盖了JavaScript语言应用的绝大多数方面，从基本概念到具体实践、从抽象的算法到具体的页面特效、从最简单的输入输出到最新的XML技术都进行了详细的阐述，并对每一个具体知识点都进行了详细的实例讲解。
+高宏(作者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

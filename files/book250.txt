@@ -1,0 +1,10 @@
+C#入门经典(第7版) C# 6.0 & Visual Studio 2015 (.NET开发经典名著)
+https://amazon.cn/dp/B073GTX56X
+https://images-cn.ssl-images-amazon.com/images/I/519y8DzbBLL._AC_UL320_ML3_.jpg
+56.71
+清华大学出版社
+74.0
+《C#入门经典(第7版) C# 6.0 &amp; Visual Studio 2015》编程实战指南《C#入门经典》系列是屡获殊荣的C#名著和超级畅销书。最新版本的《C#入门经典(第7版) C# 6.0 &amp; Visual Studio 2015》全面介绍使用C# 6和.NET Framework编写程序的基础知识，是编程新手的理想读物。这本分步讲解的实用教程从最基本的面向对象编程讲起，浓墨重彩地描述初学者最常用的工具，不要求读者具有任何编程经验。紧贴实用的示例使用Visual Studio 2015中的C#环境，涵盖微软为使C#更好兼容其他编程语言所做的最新改进。《C#入门经典(第7版) C# 6.0 &amp; Visual Studio 2015》呈现微软资深开发人员的专家级建议，将指导初学者立即上手编写Windows和Web应用程序。
+Benjamin Perkins(作者)	Jacob Vibe Hammer(作者)	Jon D. Reid(作者)	
+
+Kindle Unlimited包月电子书适用	程序语言与软件开发	计算机与互联网教材	教材教辅与参考书	简体中文	

@@ -1,0 +1,10 @@
+深入浅出React和Redux (实战)
+https://amazon.cn/dp/B071F89KXV
+https://images-cn.ssl-images-amazon.com/images/I/71awzY0ujxL._AC_UL320_ML3_.jpg
+25.00
+机械工业出版社
+94.0
+如果你熟悉传统的jQuery应用开发，那么通过阅读本书会让你发现不一样的应用构建模式；如果你之前学习过Angular.js或者Vue.js，那么对理解React和Redux的工作机理很有帮助，同时有机会体验同样一种思想的不同实现之道。
+程墨(作者)	
+	
+艺术与摄影	一般工业技术	漫话影视	建筑	随笔杂文	玩具	简体中文	亚马逊美国	亚马逊英国	亚马逊日本	亚马逊德国	

@@ -1,0 +1,11 @@
+﻿Spring Cloud与Docker微服务架构实战（第2版）
+http://product.dangdang.com/25309061.html
+http://img3m1.ddimg.cn/8/25/25309061-1_b_5.jpg
+60.00
+79.00
+电子工业出版社
+99.4
+适读人群 ：关注微服务架构有及Spring Cloud及分布式系统的从业者。 Spring Cloud 快速崛起后已成为微服务领域无可争议的标准 来自Spring Cloud社区发起人|布道者|微服务专家的真知灼见 这一Java企业级微服务极限武器已在所有互联网公司实现部署 高速发展中的Spring Cloud须要你快速跟上新版本了解新实践
+周立	
+紧跟技术发展	对工作帮助大	实用性强	专业性强	
+计算机/网络	行业软件及应用	

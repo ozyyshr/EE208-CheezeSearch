@@ -1,0 +1,11 @@
+﻿利用Python进行数据分析（原书第2版） Python数据分析经典畅销书全新升级，第1版中文版累计销售100000册 Python pandas创始人亲自执笔，Python语言的核心开发人员鼎立推荐 针对Python 3.6进行全面修订和更新
+http://product.dangdang.com/25312917.html
+http://img3m7.ddimg.cn/3/33/25312917-1_b_2.jpg
+83.30
+119.00
+机械工业出版社
+99.8
+阅读本书可以获得一份关于在Python下操作、处理、清洗、规整数据集的完整说明。本书第二版针对Python 3.6进行了更新，并增加实际案例向你展示如何高效地解决一系列数据分析问题。你将在阅读过程中学习到*版本的pandas、NumPy、IPython和Jupyter。 本书由Wes McKinney创作，他是Python pandas项目的创始人。本书是对Python数据科学工具的实操化、现代化的介绍，非常适合刚学Python的数据分析师或刚学数据科学以及科学计算的Python编程者。数据文件和相关的材料可以在GitHub上找到： l 使用IPython shell和Jupyter notebook进行探索性计算 l 学习NumPy(Numerical Python)的基础和高级特性 l 入门pandas库中的数据分析工具 l 使用灵活工具对数据进行载入、清洗、变换、合并和重塑 l 使用matplotlib创建富含信息的可视化 l 将pandas的groupby功能应用于对数据集的切片、分块和汇总 l 分析
+韦斯・麦金尼	McKinney	
+对工作帮助大	紧跟技术发展	专业性强	实用性强	
+计算机/网络	程序设计	Python	

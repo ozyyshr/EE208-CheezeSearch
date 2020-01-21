@@ -1,0 +1,11 @@
+﻿多旋翼飞行器设计与控制
+http://product.dangdang.com/25240861.html
+http://img3m1.ddimg.cn/19/16/25240861-1_b_3.jpg
+77.30
+98.00
+电子工业出版社
+100.0
+This is the single best introduction to multicopter control. Clear, comprehensive and progressing from basic principles to advanced techniques, it's a must read for anyone hoping to learn how to design flying robots.（这是一本多旋翼飞行器控制*入门的教科书。本书清晰和全面，涵盖了从基本原理到高级技术的发展过程，这对任何希望学习如何设计飞行机器人的人来说是一个必读教材。） ---- Chris Anderson，3D Robitics公司CEO This introductory text is a welcome addition to the literature on multicopter design and control, on which the author is an acknowledged authority. The book is directed to advanced undergraduate and beginning graduate students in aeronautical and control (or electrical) engineering, as well as to multicopter designers and hobbyists.（本书作者是多旋翼飞行器设计与控制领域的公认专家，他写的这本入门教科书是对多旋翼飞行器设计与控制相关文献的一个很好的补充。本书适用
+全权	
+专业性强	对工作帮助大	实用性强	紧跟技术发展	
+工业技术	航空/航天	

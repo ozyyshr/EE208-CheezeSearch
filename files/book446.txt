@@ -1,0 +1,10 @@
+Spring Data JPA从入门到精通
+https://amazon.cn/dp/B07D5BCKQD
+https://images-cn.ssl-images-amazon.com/images/I/71LE52f7gQL._AC_UL320_ML3_.jpg
+29.99
+清华大学出版社
+20.0
+《Spring Data JPA从入门到精通》以Spring Boot为技术基础，从入门到精通，由浅入深地介绍Spring Data JPA的使用。有语法，有实践，有原理剖析。 《Spring Data JPA从入门到精通》分为12章，内容包括整体认识JPA、JPA基础查询方法、定义查询方法、注解式查询方法、@Entity实例里面常用注解详解、JpaRepository扩展详解、JPA的MVC扩展REST支持、DataSource的配置、乐观锁、SpEL表达式在Spring Data里面的应用、Spring Data Redis实现cacheable的实践、IntelliJ IDEA加快开发效率、Spring Data REST简单介绍等。 《Spring Data JPA从入门到精通》适合Java开发初学者、Java开发工程师、Java开发架构师阅读，也适合高等院校和培训学校相关专业的师生教学参考。编辑推荐（1）本书针对Java开发者、Spring的使用者，是Spring Data JPA开发必备书籍。（2）本书从介绍到使用再到原理和实践，可以作为一本很好的Spring Data JPA的实战手册。（3）本书的代码清晰，迭代完整，便于全面、完整地掌握和学习JPA。（4）本书注重从实战经验方面进行讲解，非常实用，一点即破。（5）本书原型PPT深受同事喜爱，并在企业内部培训的时候得到了很多Java程序员的肯定。作者简介作者：张振华张振华，先后在驴妈妈、携程、要买车等公司担任过Java高级工程师、架构师、开发主管、技术经理等职务，有丰富的电商公司的互联网工作经验。在电商公司工作期间，负责过PC站和后端服务的平台架构、实现和升级。目前从事Spring相关的Java架构工作，对Spring整个全家桶特别钟爱。从业十几年来没有离开过Java。著有图书《Java并发编程从入门到精通》。
+张振华(作者)	
+	
+程序语言与软件开发	电脑/网络期刊	Kindle电子书	简体中文	

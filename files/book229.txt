@@ -1,0 +1,10 @@
+单片机C语言程序设计实训100例——基于PIC+Proteus仿真（第2版）
+https://amazon.cn/dp/B07BSL6YVB
+https://images-cn.ssl-images-amazon.com/images/I/91Xmji+SCkL._AC_UL320_ML3_.jpg
+39.27
+<li><b>语种：</b>
+None
+本书第2版以全新的MPLAB X IDE+XC编译器搭建PIC单片机程序开发环境，并以PROTEUS为硬件仿真平台，精心编写了100个PIC单片机C语言程序设计案例，各案例设计了难易适中的实训目标，并提供了完整的C程序源码。全书基础设计类案例涵盖PIC单片机最基本的端口编程、定时/计数器应用、中断程序设计、A/D转换、CCP程序设计、EEPROM、Flash、USART及看门狗程序设计等；硬件应用类案例涉及单片机存储器扩展、接口扩展、译码、编码、驱动、光电、机电、传感器、I2C及SPI接口器件、MMC、ATA、遥控等器件；综合设计类案例涉及消费类电子产品、仪器仪表及智能控制等相关技术，部分案例涉及IrDA/GPS/RS-485/Modbus/USB/ Ethernet等技术应用。
+彭伟(作者)	
+
+Kindle Unlimited包月电子书适用	程序语言与软件开发	计算机与互联网教材	教材教辅与参考书	简体中文	

@@ -1,0 +1,10 @@
+疯狂HTML 5/CSS 3/JavaScript讲义
+https://amazon.cn/dp/B00FF1Y1GI
+https://images-cn.ssl-images-amazon.com/images/I/51eM46j212L._AC_UL320_ML3_.jpg
+34.99
+电子工业出版社
+None
+HTML 5规范呼之欲出，各浏览器厂商更早已摩拳擦掌，纷纷推出支持HTML 5规范的浏览器：Firefox、Opera、Chrome等浏览器早已很好地支持各种HTML 5规范，微软也宣布IE 9将会更好地支持CSS 3、SVG和HTML 5等新规范，这些迹象表明：HTML 5时代到来了。本书是一本全面介绍HTML 5、CSS 3和JavaScript前端开发技术的图书，系统地介绍了HTML 5常用的元素和属性、HTML 5的表单元素和属性、HTML 5的绘图支持、HTML 5的多媒体支持、CSS 3的功能和用法、最前沿的变形与动画功能等。除此之外，本书还系统地介绍了JavaScript编程知识，包括JavaScript基本语法、DOM编程，以及HTML 5新增的本地存储、离线应用、JavaScript多线程、客户端通信支持、WebSocket编程等。本书的定位是一本前端开发的“实战性”图书，因此在介绍各知识点时并不是简单地停留在知识点层面阐述，而是结合了大量实例来让读者对照练习、学以致用。本书最后还提供了一个基于HTML 5技术的小游戏：疯狂俄罗斯方块。该游戏综合运用了HTML 5的绘图支持、客户端存储等技术，具有较高的参考价值。本书提供了配套的答疑网站，如果读者在阅读本书时遇到了技术问题，可以登录疯狂Java联盟（http://www.crazyit.org）发帖，笔者将会及时予以解答。
+李刚(作者)	
+	
+程序语言与软件开发	图形图像/动画/多媒体与网页开发	计算机与互联网教材	电子工业出版社	人邮图书	博文视点	
